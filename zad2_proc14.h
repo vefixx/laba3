@@ -1,0 +1,6 @@
+#ifndef LABA3_ZAD2_PROC14_H
+#define LABA3_ZAD2_PROC14_H
+
+void Zad2Proc14();
+
+#endif //LABA3_ZAD2_PROC14_H
