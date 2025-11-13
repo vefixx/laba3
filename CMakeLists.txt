@@ -3,13 +3,11 @@ project(laba3)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(laba3 zad1_proc28.cpp
-        is_prime.h
-        is_prime.cpp
-        zad2_proc14.cpp
-        shift_right.h
-        shift_right.cpp
+add_executable(laba3
         main.cpp
-        zad1_proc28.h
-        zad2_proc14.h
-        zad4_thetri14.cpp)
+        all.h
+        all.cpp
+        zad6.cpp
+        zad6.h
+        main2.cpp
+)

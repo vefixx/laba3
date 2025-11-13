@@ -1,4 +1,0 @@
-#ifndef LABA3_ZAD4_THETRI14_H
-#define LABA3_ZAD4_THETRI14_H
-void Zad4TheTri14();
-#endif //LABA3_ZAD4_THETRI14_H
